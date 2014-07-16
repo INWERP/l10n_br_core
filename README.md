@@ -10,7 +10,7 @@ Este projeto contêm os principais módulos da localização brasileira do OpenE
 
 * Fiscais
 * Contábil
-* Spede
+* Sped
 
 Sobre
 -----
